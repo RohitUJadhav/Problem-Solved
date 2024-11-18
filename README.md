@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/RohitUJadhav/Problem-Solved/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/RohitUJadhav/Problem-Solved/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/RohitUJadhav/Problem-Solved/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/RohitUJadhav/Problem-Solved/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
