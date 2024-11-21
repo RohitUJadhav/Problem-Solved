@@ -36,4 +36,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/RohitUJadhav/Problem-Solved/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/RohitUJadhav/Problem-Solved/tree/master/0283-move-zeroes) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/RohitUJadhav/Problem-Solved/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
